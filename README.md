@@ -1,1 +1,1 @@
-# AI_HR
+# AI in HR
